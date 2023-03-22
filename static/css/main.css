@@ -1,0 +1,22 @@
+.custom {
+  border: solid 1px white;
+}
+.container {
+  min-height: 100vh;
+}
+
+.box {
+  min-height: 50vh;
+}
+h1 {
+  font-size: 3rem;
+  color: white;
+}
+.block {
+  min-height: 20vh;
+}
+
+.form-custom {
+  background-color: white;
+  border-radius: 20px;
+}
